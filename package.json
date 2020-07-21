@@ -10,7 +10,7 @@
     "history": "^1.12.5",
     "intl": "^0.1.4",
     "keyboardjs": "^0.4.2",
-    "lodash": "^3.8.0",
+    "lodash": "^4.17.19",
     "radium": "^0.14.2",
     "react": "^0.14.0",
     "react-addons-shallow-compare": "^0.14.0",
